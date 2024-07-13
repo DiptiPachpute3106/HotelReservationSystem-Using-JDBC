@@ -2,6 +2,7 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________
 Welcome to the **Hotel Reservation System**, a Java-based application for managing hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system simplifies the reservation process, enhances guest management, and keeps your business organized.
 
+
 **Features 🌟**
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -13,6 +14,7 @@ ________________________________________________________________________________
 
 **4.Delete Reservations:** Remove reservations that are no longer needed.
 
+
 **Getting Started 🚀**
 ___________________________________________________________________________________________________________________________________________________________________________________________
 **Prerequisites**
@@ -20,8 +22,9 @@ ________________________________________________________________________________
 -MySQL Database
 -MySQL Connector/J (Java)
 
-**Setup**
 
+**Setup**
+___________________________________________________________________________________________________________________________________________________________________________________________
 1.Clone this repository to your local machine:
 
 git clone https://github.com/prabhatthakuryt/Hotel-Reservation-System.git
@@ -37,9 +40,10 @@ private static final String DB_PASSWORD = "your_password";
 
 4.Follow the on-screen menu options to use the system.
 
+
+
 **Usage 📋**
-
 ___________________________________________________________________________________________________________________________________________________________________________________________
-Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
+-Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
 
-Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
+-Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
